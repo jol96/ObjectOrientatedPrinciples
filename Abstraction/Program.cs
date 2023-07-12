@@ -4,8 +4,6 @@
     //  hiding internal implementation and only revealing the required features or set of services
     //  that are offered.
 
-    //  
-
 
     public class Program
     {
